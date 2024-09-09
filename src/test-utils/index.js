@@ -1,0 +1,4 @@
+
+export { localimag } from './Localimage';
+
+
